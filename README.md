@@ -24,7 +24,7 @@ This project analyzes Smartway Bank’s transaction data to tackle challenges li
 
 --- 
 ## Dashboard Features 
--	Key KPIs: total patients, average waiting, total doctors  
+-	Key KPIs: total number of transactions, average transaction amount, total succesful transactions  
 -	Visuals include column charts, clustered column charts, stacked column charts, and bar charts to represent hourly and time-range transaction trends, success vs failed transactions, average latency, average slice bandwidth, network slice performance comparisons, and device/platform usage.
 -	Interactivity: slicers for Transaction Type, Transaction Status, Month and Time Range
 --- 
