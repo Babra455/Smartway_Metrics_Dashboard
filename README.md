@@ -11,10 +11,10 @@ This project analyzes Smartway Bank’s transaction data to tackle challenges li
 --- 
  
 ## Project Objective 
-i.	Assess real-time fraud detection and blocking, measuring effectiveness and any latency between flagging and prevention.
-ii.	Evaluate the performance of Network Slice 1 and 2 compared to baseline networks on key metrics (latency, success rate, throughput) and analyze cost versus benefit
-iii.	Recommend which platform Mobile or Desktop should be prioritized for fixes, specifying the most critical features and user flows.
-iv.	Identify whether transaction rejections are due to banking errors or network issues, supported by evidence and confidence levels.
+- Assess real-time fraud detection and blocking, measuring effectiveness and any latency between flagging and prevention.
+- Evaluate the performance of Network Slice 1 and 2 compared to baseline networks on key metrics (latency, success rate, throughput) and analyze cost versus benefit
+- Recommend which platform Mobile or Desktop should be prioritized for fixes, specifying the most critical features and user flows.
+- Identify whether transaction rejections are due to banking errors or network issues, supported by evidence and confidence levels.
 
 --- 
  
@@ -56,7 +56,7 @@ iv.	Identify whether transaction rejections are due to banking errors or network
 ## Project Files (included) 
 -	`Smartway Metrics Dashboard.xlsx` — interactive dashboard file   
 -	`/Transaction datasets/` — raw data files used for analysis (CSV / XLSX)   
--	`Smartway Presentation.pdf` — boardroom slide deck (10–12 slides)   
+-	`Smartway Presentation.pdf` — boardroom slide deck (14 slides)   
 -	`README.md` — this documentation 
 -	`MP_Excel_Project_2` – The problem
  
