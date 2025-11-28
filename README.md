@@ -55,7 +55,7 @@ This project analyzes Smartway Bank’s transaction data to tackle challenges li
  
 ## Project Files (included) 
 -	`Smartway Metrics Dashboard.xlsx` — interactive dashboard file   
--	`/Transaction datasets/` — raw data files used for analysis (CSV / XLSX)   
+-	`Transaction datasets` — raw data files used for analysis (CSV / XLSX)   
 -	`Smartway Presentation.pdf` — boardroom slide deck (14 slides)   
 -	`README.md` — this documentation 
 -	`MP_Excel_Project_2` – The problem
