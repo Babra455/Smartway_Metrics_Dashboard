@@ -63,10 +63,10 @@ This project analyzes Smartway Bank’s transaction data to tackle challenges li
 --- 
  
 ## How to Run / View 
-1.	Open `Dashboard.xlsx` in Excel (desktop recommended)   
+1.	Open `Smartway Dashboard.xlsx` in Excel (desktop recommended)   
 2.	Enable content (if prompted) to allow Pivot Tables and slicers to work   
-3.	Use slicers to filter for Age group, Day of the week , Medication type.   
-4.	Refer to `Presentation.pdf` for a summary of insights and recommended actions 
+3.	Use slicers to filter for Transaction Type, Transaction Status, Month and Time Range.   
+4.	Refer to `Smartway Presentation.pdf` for a summary of insights and recommended actions 
  
  
 
