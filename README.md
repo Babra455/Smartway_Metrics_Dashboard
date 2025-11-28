@@ -31,7 +31,7 @@ This project analyzes Smartway Bank’s transaction data to tackle challenges li
 ## Key Findings
 1.	In network slice performance, Slice 2 records the most successful transactions, while Slice 1 has the highest number of failures. 
 2.	Transactions by hour show that early morning (0–5) has the highest number of both successes and failures, while late night (21–23) has the lowest.
-3.	Mobile have the highest number of transactions and also the most successful ones.
+3.	Mobile app has the highest number of transactions and also the most successful ones.
 4.	The transactions that were falsely flagged show a higher number of failed transactions
 5.	The number of successful transactions is generally higher than failed transactions.
 
