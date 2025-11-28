@@ -31,13 +31,13 @@ This project analyzes Smartway Bank’s transaction data to tackle challenges li
 ## Key Findings
 1.	In network slice performance, Slice 2 records the most successful transactions, while Slice 1 has the highest number of failures. 
 2.	Transactions by hour show that early morning (0–5) has the highest number of both successes and failures, while late night (21–23) has the lowest.
-3.	Desktops have the highest number of transactions and also the most successful ones.
+3.	Mobile have the highest number of transactions and also the most successful ones.
 4.	The transactions that were falsely flagged show a higher number of failed transactions
 5.	The number of successful transactions is generally higher than failed transactions.
 
 --- 
 ## Recommendations 
-1.	Improve the performance of the app and mobile site, since desktops perform best, by optimizing speed, fixing bugs, and ensuring smooth transaction flow across all devices.
+1.	Focus on improving the mobile app first since it handles the most transactions and has the highest success rates, making desktop a secondary priority.
 2.	Schedule all system maintenance and updates during early morning hours to minimize user disruption..
 3.	Reassess Slice 1 configuration and usage to reduce failures, and monitor Slice 2 to ensure it continues delivering high success rates. Consider reallocating traffic or upgrading infrastructure based on performance data.
 4.	Review and adjust fraud system rules to reduce false positives so that valid transactions are not blocked, while still keeping security strong.
