@@ -20,7 +20,7 @@ This project analyzes Smartway Bank’s transaction data to tackle challenges li
  
 ## Datasets 
 
-**Patients.csv ** -  transaction id, sender account id, receiver account id, transaction amount, transaction type, date, time, hour, timestamp, transaction status, fraud flag, pin code, network slice id, slice bandwidth (mbps), latency (ms), device used, geolocation(latitude, and longitude).
+Patients.csv  -  transaction id, sender account id, receiver account id, transaction amount, transaction type, date, time, hour, timestamp, transaction status, fraud flag, pin code, network slice id, slice bandwidth (mbps), latency (ms), device used, geolocation(latitude, and longitude).
 
 --- 
 ## Dashboard Features 
